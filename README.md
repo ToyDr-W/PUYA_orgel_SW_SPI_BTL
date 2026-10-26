@@ -11,6 +11,14 @@
 皆様が残した1つのカルテが、全国の同志の「次の臨床」を支える大きな力になります。
 
 👉 **[おもちゃ修理・マイコン換装 報告フォームからカルテを投稿する](https://github.com/ToyDr-W/PUYA_orgel_SW_SPI_BTL/issues)**
+<p align="center">
+  <br>
+  <a href="https://youtu.be/OHc7AwMBYVM?si=gm93Tp4iBv0YjcbH">
+<img src="https://github.com/user-attachments/assets/36ef7815-7113-41d0-aee8-45531e684696" alt="251011_NATURE" width="45%">
+  <br>
+       <br>▶️ YouTubeで動作確認動画を再生する
+  </a>
+</p>
 
 ---
 
