@@ -16,7 +16,7 @@
   <a href="https://youtu.be/OHc7AwMBYVM?si=gm93Tp4iBv0YjcbH">
 <img src="https://github.com/user-attachments/assets/36ef7815-7113-41d0-aee8-45531e684696" alt="251011_NATURE" width="45%">
   <br>
-       <br>▶️ YouTubeで動作確認動画を再生する
+       <em>▶️ YouTubeで動作確認動画を再生する</em>
   </a>
 </p>
 
