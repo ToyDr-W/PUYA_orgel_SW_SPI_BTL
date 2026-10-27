@@ -11,15 +11,13 @@
 
 ---
 
-### 💾 書き込み用バイナリ（.hex）の即時ダウンロード
-「Keil uVision等の開発環境（コンパイル環境）が手元にない」というドクターは、以下の直通リンクから最新のビルド済みバイナリ（.hex）をワンクリックでダウンロードし、そのまま書き込みソフト等でマイコンへ流し込んでご使用いただけます。
+### 💾 書き込み用バイナリ（.hex）の入手方法
+「Keil uVision等の開発環境（コンパイル環境）が手元にない」というドクターは、以下のリンク先から最新のビルド済みバイナリ（.hex）をダウンロードし、そのまま書き込みソフト等でマイコンへ流し込んでご使用いただけます。
 
-* 🛠️ **[8ピン用：PY32F002.hex をダウンロードする](https://raw.githubusercontent.com/ToyDr-W/PUYA_orgel_SW_SPI_BTL/blob/main/orgel1_4_261018/orgel_SW_F002A_8/Objects/PY32F002.hex)**
-* 🛠️ **[16ピン用：PY32F002.hex をダウンロードする](https://raw.githubusercontent.com/ToyDr-W/PUYA_orgel_SW_SPI_BTL/blob/main/orgel1_4_261018/orgel_SW_F002A_16/Objects/PY32F002.hex)**
-
-> 💡 **ドクターの皆様へ：**
-> クリックすると直接ファイルのダウンロードが始まります。
-> もしお使いのブラウザによって「英数字の文字列が並んだ画面」が開いてしまった場合は、キーボードの **[Ctrl] + [S]** を押すか、上記のリンクを右クリックして「名前を付けてリンク先を保存」を選択してパソコンへ保存してください。
+1. 以下の、お使いのピン数に合わせたリンクをクリックします。
+   * 🛠️ **[8ピン用：PY32F002.hex の配布ページを開く](https://github.com/ToyDr-W/PUYA_orgel_SW_SPI_BTL/blob/main/orgel1_4_261018/orgel_SW_F002A_8/Objects/PY32F002.hex)**
+   * 🛠️ **[16ピン用：PY32F002.hex の配布ページを開く](https://github.com/ToyDr-W/PUYA_orgel_SW_SPI_BTL/blob/main/orgel1_4_261018/orgel_SW_F002A_16/Objects/PY32F002.hex)**
+2. 移動先のGitHub画面の右上（コードが表示されている枠の右上）にある、**下向き矢印のアイコン（Download raw file ボタン）** をクリックすると、安全に手元のパソコンへ保存されます。
 
 ---
 
