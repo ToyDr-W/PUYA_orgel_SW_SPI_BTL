@@ -15,7 +15,7 @@
 「Keil uVision等の開発環境（コンパイル環境）が手元にない」というドクターは、以下の直通リンクから最新のビルド済みバイナリ（.hex）をワンクリックでダウンロードし、そのまま書き込みソフト等でマイコンへ流し込んでご使用いただけます。
 
 * 🛠️ **[8ピン用：PY32F002.hex をダウンロードする](https://github.com/ToyDr-W/PUYA_orgel_SW_SPI_BTL/raw/main/orgel1_4_261018/orgel_SW_F002A_8/Objects/PY32F002.hex)**
-* 🛠️ **[16ピン用：PY32F002.hex をダウンロードする](https://github.com/ToyDr-W/PUYA_orgel_SW_SPI_BTL/blob/main/orgel1_4_261018/orgel_SW_F002A_16/Objects/PY32F002.hex)**
+* 🛠️ **[16ピン用：PY32F002.hex をダウンロードする](https://github.com/ToyDr-W/PUYA_orgel_SW_SPI_BTL/blob/main/orgel1_4_261018/orgel_SW_F002A_16/Objects/PY32F002.hex?raw=true)**
 
 > 💡 **ダウンロードの注意点：** 
 > リンクをクリックすると直接ファイルの保存（またはGitHubのデータ画面）が始まります。もしテキストデータが画面に表示されてしまう場合は、リンクを右クリックして「名前を付けてリンク先を保存」を選択してください。
