@@ -5,7 +5,7 @@
 <p align="center">
   <br>
   <a href="https://youtu.be/BIdHJYOoOMQ?si=h7QThXw21s1Fm-mC">
-<img src="https://github.com/user-attachments/assets/36ef7815-7113-41d0-aee8-45531e684696" alt="251011_NATURE" width="45%">
+<img src="https://github.com/user-attachments/assets/36ef7815-7113-41d0-aee8-45531e684696" alt="251011_NATURE" width="40%">
   <br>
        <em>▶️ YouTubeで動作確認動画を再生する ↗</em>
   </a>
