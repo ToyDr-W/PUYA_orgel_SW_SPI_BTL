@@ -2,6 +2,14 @@
 
 安価でコストパフォーマンスに優れたPUYA半導体製マイコン「PY32F002A」を使用した、おもちゃ修理・マイコン換装用の電子オルゴールプロジェクトです。
 音楽表現豊かなオルゴール演奏と、外部メモリの音源を高音質でコンカレントに音声再生します。
+<p align="center">
+  <br>
+  <a href="https://youtu.be/BIdHJYOoOMQ?si=h7QThXw21s1Fm-mC">
+<img src="https://github.com/user-attachments/assets/36ef7815-7113-41d0-aee8-45531e684696" alt="251011_NATURE" width="45%">
+  <br>
+       <em>▶️ YouTubeで動作確認動画を再生する ↗</em>
+  </a>
+</p>
 
 ### 📥 データのダウンロード方法
 最新の回路図およびプログラム一式をダウンロードするには、 リポジトリ右上にある緑色の **`[ <> Code ]`** ボタンをクリックし、メニューの一番下にある **`Download ZIP`** から一括ダウンロードできます。
@@ -16,14 +24,6 @@
 
 #### 👉 **[おもちゃ修理・マイコン換装 報告フォームからカルテを投稿する](https://github.com/ToyDr-W/PUYA_orgel_SW_SPI_BTL/issues)**
 （Issues画面右上の「New issue」ボタンをクリックし、報告フォームを選択）
-<p align="center">
-  <br>
-  <a href="https://youtu.be/OHc7AwMBYVM?si=gm93Tp4iBv0YjcbH">
-<img src="https://github.com/user-attachments/assets/36ef7815-7113-41d0-aee8-45531e684696" alt="251011_NATURE" width="45%">
-  <br>
-       <em>▶️ YouTubeで動作確認動画を再生する ↗</em>
-  </a>
-</p>
 
 ---
 
